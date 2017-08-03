@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fb720bc-3d2d-43d5-a72b-6fb6c033df54" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actions/clientAction.js" afterPath="$PROJECT_DIR$/actions/clientAction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actions/dataActions.js" afterPath="$PROJECT_DIR$/actions/dataActions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actions/errorAction.js" afterPath="$PROJECT_DIR$/actions/errorAction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/actions1/dataActions.js" afterPath="$PROJECT_DIR$/actions1/dataActions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bundle.js" afterPath="$PROJECT_DIR$/bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Main.js" afterPath="$PROJECT_DIR$/components/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Main2.js" afterPath="$PROJECT_DIR$/components/Main2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/Main3.js" afterPath="$PROJECT_DIR$/components/Main3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/FeedRefresh/ClientChoose.js" afterPath="$PROJECT_DIR$/components/parts/FeedRefresh/ClientChoose.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/FeedRefresh/ErrorCountChoose.js" afterPath="$PROJECT_DIR$/components/parts/FeedRefresh/ErrorCountChoose.js" />
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js" afterPath="$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/NavNST.js" afterPath="$PROJECT_DIR$/components/parts/NavNST.js" />
+=======
+<<<<<<< HEAD
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js" afterPath="$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/NavNST.js" afterPath="$PROJECT_DIR$/components/parts/NavNST.js" />
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/NewStartTime/Charts.js" afterPath="$PROJECT_DIR$/components/parts/NewStartTime/Charts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/NewStartTime/Pandect.js" afterPath="$PROJECT_DIR$/components/parts/NewStartTime/Pandect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/NewStartTime/PandectChoose.js" afterPath="$PROJECT_DIR$/components/parts/NewStartTime/PandectChoose.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/NewStartTime/TimeDis.js" afterPath="$PROJECT_DIR$/components/parts/NewStartTime/TimeDis.js" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entry.js" afterPath="$PROJECT_DIR$/entry.js" />
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entry.js" afterPath="$PROJECT_DIR$/entry.js" />
+=======
+<<<<<<< HEAD
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+>>>>>>> 944bc6f... 6-16东东改的
+=======
+>>>>>>> parent of 5674881... 修改选择菜单样式
+>>>>>>> 704923cf949ec4122356c603ce111e195641a31c
+=======
+>>>>>>> 944bc6f... 6-16东东改的
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entry.js" afterPath="$PROJECT_DIR$/entry.js" />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entry.js" afterPath="$PROJECT_DIR$/entry.js" />
+=======
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/parts/NewStartTime/TimeTrend.js" afterPath="$PROJECT_DIR$/components/parts/NewStartTime/TimeTrend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stores/TimeDisStore.js" afterPath="$PROJECT_DIR$/stores/TimeDisStore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+<<<<<<< HEAD
+=======
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="entry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entry.js">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 704923cf949ec4122356c603ce111e195641a31c
+            <state relative-caret-position="315">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+=======
+            <state relative-caret-position="345">
+              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+            <state relative-caret-position="345">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+>>>>>>> 944bc6f... 6-16东东改的
+=======
+            <state relative-caret-position="300">
+              <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+=======
+            <state relative-caret-position="345">
+              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+              <folding>
+                <element signature="e#2#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
+=======
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        <entry file="file://$PROJECT_DIR$/components/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="67" column="66" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Main2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="66" column="54" lean-forward="false" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Main3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+              <folding>
+                <element signature="e#44#89#0" expanded="false" />
+=======
+      <file leaf-file-name="clientAction.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actions/clientAction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="MyButton.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/MyButton.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="errorAction.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/actions/errorAction.js">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="60">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+      <file leaf-file-name="NavNST.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/parts/NavNST.js">
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="2038">
+              <caret line="142" column="1" lean-forward="false" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+>>>>>>> 944bc6f... 6-16东东改的
+              <folding>
+=======
+      <file leaf-file-name="TimeTrend.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/TimeTrend.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2038">
+              <caret line="142" column="1" lean-forward="false" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+              <folding>
+>>>>>>> 944bc6f... 6-16东东改的
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#94#132#0" expanded="true" />
+              </folding>
+>>>>>>> 704923cf949ec4122356c603ce111e195641a31c
+=======
+      <file leaf-file-name="ClientChoose.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/ClientChoose.js">
+=======
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Main.js">
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="67" column="50" lean-forward="false" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
+=======
+            <state relative-caret-position="60">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+      <file leaf-file-name="NavNST.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/parts/NavNST.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="Main2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Main2.js">
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PandectChoose.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="939">
+              <caret line="560" column="37" lean-forward="true" selection-start-line="560" selection-start-column="37" selection-end-line="560" selection-end-column="37" />
+              <folding>
+<<<<<<< HEAD
+                <element signature="e#93#154#0" expanded="true" />
+                <element signature="e#461#489#0" expanded="true" />
+=======
+                <element signature="e#44#89#0" expanded="false" />
+=======
+      <file leaf-file-name="PandectChoose.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="939">
+              <caret line="560" column="37" lean-forward="true" selection-start-line="560" selection-start-column="37" selection-end-line="560" selection-end-column="37" />
+              <folding>
+                <element signature="e#93#154#0" expanded="true" />
+                <element signature="e#461#489#0" expanded="true" />
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>card3</find>
+      <find>navDetail2</find>
+      <find>style1</find>
+      <find>col</find>
+      <find>spanTop</find>
+      <find>业务线</find>
+      <find>choose</find>
+      <find>position</find>
+      <find>全链路数据分析</find>
+      <find>AppStore</find>
+      <find>divRight</find>
+      <find>render</find>
+      <find>PandectChoose</find>
+      <find>local_error</find>
+      <find>head</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/components/parts/ClientChoose.js" />
+        <option value="$PROJECT_DIR$/components/parts/Pandect.js" />
+        <option value="$PROJECT_DIR$/components/parts/PandectChoose.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/LinkCharts.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/NavFR" />
+        <option value="$PROJECT_DIR$/components/parts/NavFR" />
+        <option value="$PROJECT_DIR$/components/parts/NavMM.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/Pandect.js" />
+        <option value="$PROJECT_DIR$/components/parts/NavFR.js" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/components/parts/NavNST.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/ClientChoose.js" />
+        <option value="$PROJECT_DIR$/entry.js" />
+=======
+>>>>>>> 682c966... 修改选择菜单样式
+        <option value="$PROJECT_DIR$/components/Main.js" />
+        <option value="$PROJECT_DIR$/components/Main3.js" />
+        <option value="$PROJECT_DIR$/components/Main2.js" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/entry.js" />
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+=======
+        <option value="$PROJECT_DIR$/components/Main.js" />
+        <option value="$PROJECT_DIR$/components/Main3.js" />
+        <option value="$PROJECT_DIR$/components/Main2.js" />
+        <option value="$PROJECT_DIR$/entry.js" />
+<<<<<<< HEAD
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+>>>>>>> 704923cf949ec4122356c603ce111e195641a31c
+=======
+>>>>>>> 944bc6f... 6-16东东改的
+=======
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+=======
+        <option value="$PROJECT_DIR$/components/Main.js" />
+        <option value="$PROJECT_DIR$/components/Main3.js" />
+        <option value="$PROJECT_DIR$/components/Main2.js" />
+        <option value="$PROJECT_DIR$/entry.js" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        <option value="$PROJECT_DIR$/actions1/dataActions.js" />
+        <option value="$PROJECT_DIR$/components/parts/NewStartTime/Charts.js" />
+        <option value="$PROJECT_DIR$/components/parts/NewStartTime/Pandect.js" />
+        <option value="$PROJECT_DIR$/components/parts/NewStartTime/PandectChoose.js" />
+        <option value="$PROJECT_DIR$/components/parts/NewStartTime/TimeDis.js" />
+        <option value="$PROJECT_DIR$/components/parts/NewStartTime/TimeTrend.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/ErrorCountChoose.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/ClientChoose.js" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/entry.js" />
+        <option value="$PROJECT_DIR$/bundle.js" />
+        <option value="$PROJECT_DIR$/components/Main2.js" />
+        <option value="$PROJECT_DIR$/components/Main3.js" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/components/Main.js" />
+=======
+<<<<<<< HEAD
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/ErrorCountChoose.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/ClientChoose.js" />
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+>>>>>>> 944bc6f... 6-16东东改的
+=======
+>>>>>>> parent of 5674881... 修改选择菜单样式
+>>>>>>> 704923cf949ec4122356c603ce111e195641a31c
+=======
+>>>>>>> 944bc6f... 6-16东东改的
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+=======
+        <option value="$PROJECT_DIR$/actions/clientAction.js" />
+        <option value="$PROJECT_DIR$/actions/dataActions.js" />
+        <option value="$PROJECT_DIR$/actions/errorAction.js" />
+<<<<<<< HEAD
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/components/parts/NavNST.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+        <option value="$PROJECT_DIR$/actions/clientAction.js" />
+        <option value="$PROJECT_DIR$/actions/dataActions.js" />
+        <option value="$PROJECT_DIR$/actions/errorAction.js" />
+<<<<<<< HEAD
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+        <option value="$PROJECT_DIR$/components/parts/NavNST.js" />
+        <option value="$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="x" value="458" />
+    <option name="y" value="32" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="x" value="460" />
+    <option name="y" value="39" />
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+=======
+    <option name="x" value="239" />
+    <option name="y" value="62" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+<<<<<<< HEAD
+    <option name="x" value="685" />
+    <option name="y" value="37" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+    <option name="x" value="458" />
+    <option name="y" value="32" />
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+=======
+    <option name="x" value="548" />
+    <option name="y" value="62" />
+<<<<<<< HEAD
+>>>>>>> 944bc6f... 6-16东东改的
+=======
+    <option name="x" value="460" />
+    <option name="y" value="39" />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+    <option name="x" value="685" />
+    <option name="y" value="37" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+    <option name="width" value="1351" />
+    <option name="height" value="937" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+      <pane id="Scope" />
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+=======
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+>>>>>>> 944bc6f... 6-16东东改的
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+=======
+              <option name="myItemId" value="stores" />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions1" />
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stores" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dispatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <pane id="Scratches" />
+=======
+      <pane id="Scratches" />
+      <pane id="Scope" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <pane id="Scratches" />
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+=======
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+      <pane id="Scratches" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+<<<<<<< HEAD
+=======
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/parts/NewStartTime" />
+      <recent name="$PROJECT_DIR$/components/parts" />
+      <recent name="$PROJECT_DIR$/components/parts/FeedRefresh" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fb720bc-3d2d-43d5-a72b-6fb6c033df54" name="Default" comment="" />
+      <created>1497325486218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497325486218</updated>
+      <workItem from="1497325487413" duration="15273000" />
+      <workItem from="1497403941340" duration="14417000" />
+      <workItem from="1497431030982" duration="3000" />
+      <workItem from="1497432427620" duration="1173000" />
+      <workItem from="1497489086348" duration="12467000" />
+      <workItem from="1497578754816" duration="1111000" />
+      <workItem from="1497583516758" duration="37000" />
+      <workItem from="1497585240327" duration="397000" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+      <workItem from="1497599302475" duration="914000" />
+=======
+      <workItem from="1497603771531" duration="125000" />
+<<<<<<< HEAD
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+      <workItem from="1497844695303" duration="86000" />
+      <workItem from="1497844832260" duration="1277000" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+<<<<<<< HEAD
+=======
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="49054000" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="44878000" />
+=======
+    <option name="totallyTimeSpent" value="46130000" />
+>>>>>>> 944bc6f... 6-16东东改的
+=======
+    <option name="totallyTimeSpent" value="48003000" />
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+    <option name="totallyTimeSpent" value="48140000" />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+    <option name="totallyTimeSpent" value="49054000" />
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="458" y="32" width="1351" height="937" extended-state="0" />
+    <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="48128000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="239" y="62" width="1351" height="937" extended-state="0" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+    <option name="totallyTimeSpent" value="49491000" />
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="685" y="37" width="1351" height="937" extended-state="0" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+    <frame x="460" y="39" width="1351" height="937" extended-state="0" />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+    <frame x="239" y="62" width="1351" height="937" extended-state="0" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+    <option name="totallyTimeSpent" value="49491000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="685" y="37" width="1351" height="937" extended-state="0" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24278313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.50259066" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.4974093" order="8" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.4974093" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/Main3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="60" column="63" lean-forward="false" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
+          <folding>
+            <element signature="e#44#89#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+    <entry file="file://$PROJECT_DIR$/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="67" column="74" lean-forward="false" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="74" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+          <folding>
+            <element signature="e#46#84#0" expanded="false" />
+            <element signature="e#517#549#0" expanded="false" />
+          </folding>
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+          <folding />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="34" lean-forward="false" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+          <folding>
+            <element signature="e#46#84#0" expanded="false" />
+            <element signature="e#517#549#0" expanded="false" />
+          </folding>
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+          <folding />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="63" lean-forward="false" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
+<<<<<<< HEAD
+          <folding>
+            <element signature="e#44#89#0" expanded="false" />
+          </folding>
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+          <folding>
+            <element signature="e#46#84#0" expanded="false" />
+            <element signature="e#517#549#0" expanded="false" />
+          </folding>
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+          <folding />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#2#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+          <folding>
+            <element signature="e#46#84#0" expanded="false" />
+            <element signature="e#517#549#0" expanded="false" />
+          </folding>
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+          <folding />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="233" selection-end-column="0" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+          <folding />
+=======
+          <folding>
+            <element signature="e#46#84#0" expanded="false" />
+            <element signature="e#517#549#0" expanded="false" />
+          </folding>
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+          <folding />
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+<<<<<<< HEAD
+          <folding>
+            <element signature="e#44#89#0" expanded="false" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+            <element signature="e#90#128#0" expanded="false" />
+            <element signature="e#561#593#0" expanded="false" />
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          </folding>
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/Charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="141" column="1" lean-forward="false" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/Charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2115">
+          <caret line="141" column="1" lean-forward="true" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/Pandect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="320" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/LinkCharts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5145">
+          <caret line="352" column="34" lean-forward="false" selection-start-line="352" selection-start-column="34" selection-end-line="352" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NavFR2" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/PandectChoose1.js" />
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/LinkCharts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NavFR2" />
+    <entry file="file://$PROJECT_DIR$/components/parts/NavMM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dispatcher/AppDispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stores/AppStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NavFR.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="217" column="16" lean-forward="true" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/Pandect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+<<<<<<< HEAD
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="223" column="84" lean-forward="false" selection-start-line="223" selection-start-column="84" selection-end-line="223" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="225" column="84" lean-forward="false" selection-start-line="225" selection-start-column="84" selection-end-line="225" selection-end-column="84" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          <folding>
+            <element signature="e#44#89#0" expanded="false" />
+            <element signature="e#90#128#0" expanded="false" />
+            <element signature="e#561#593#0" expanded="false" />
+<<<<<<< HEAD
+          </folding>
+=======
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main2.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="292">
+          <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="405">
+          <caret line="222" column="84" lean-forward="false" selection-start-line="222" selection-start-column="84" selection-end-line="222" selection-end-column="84" />
+=======
+        <state relative-caret-position="292">
+          <caret line="89" column="30" lean-forward="true" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+<<<<<<< HEAD
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          <folding>
+            <element signature="e#46#84#0" expanded="false" />
+            <element signature="e#517#549#0" expanded="false" />
+          </folding>
+<<<<<<< HEAD
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions1/dataActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/Charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="117" column="14" lean-forward="true" selection-start-line="117" selection-start-column="14" selection-end-line="118" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/Pandect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="1115" column="0" lean-forward="true" selection-start-line="1115" selection-start-column="0" selection-end-line="1115" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/PandectChoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="553" column="18" lean-forward="true" selection-start-line="553" selection-start-column="18" selection-end-line="553" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/TimeDis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="145" column="1" lean-forward="false" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/TimeTrend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="126" column="52" lean-forward="true" selection-start-line="126" selection-start-column="52" selection-end-line="126" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/ErrorCount.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/ErrorCountChoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="390" column="78" lean-forward="true" selection-start-line="390" selection-start-column="78" selection-end-line="390" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/ClientChoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="218">
+          <caret line="519" column="0" lean-forward="true" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/MyButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="421">
+          <caret line="4690" column="0" lean-forward="false" selection-start-line="4690" selection-start-column="0" selection-end-line="4690" selection-end-column="0" />
+=======
+        <state relative-caret-position="1801">
+          <caret line="519" column="0" lean-forward="false" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+<<<<<<< HEAD
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="282">
+          <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+          <folding>
+            <element signature="e#44#89#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/ClientChoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="519" column="0" lean-forward="true" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+=======
+        <state relative-caret-position="421">
+          <caret line="4690" column="0" lean-forward="false" selection-start-line="4690" selection-start-column="0" selection-end-line="4690" selection-end-column="0" />
+=======
+        <state relative-caret-position="1801">
+          <caret line="519" column="0" lean-forward="false" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+<<<<<<< HEAD
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+          <folding />
+=======
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+>>>>>>> 682c966... 修改选择菜单样式
+=======
+    <entry file="file://$PROJECT_DIR$/actions1/dataActions.js">
+=======
+    <entry file="file://$PROJECT_DIR$/actions/clientAction.js">
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#39#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/Charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="117" column="14" lean-forward="true" selection-start-line="117" selection-start-column="14" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#85#0" expanded="true" />
+          </folding>
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/clientAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+=======
+        <state relative-caret-position="345">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+=======
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+        <state relative-caret-position="15">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+<<<<<<< HEAD
+=======
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/TimeTrend.js">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/Main3.js">
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2038">
+          <caret line="142" column="1" lean-forward="false" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/Main3.js">
+=======
+>>>>>>> 944bc6f... 6-16东东改的
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 5674881... 修改选择菜单样式
+=======
+    <entry file="file://$PROJECT_DIR$/actions1/dataActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/Charts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="117" column="14" lean-forward="true" selection-start-line="117" selection-start-column="14" selection-end-line="118" selection-end-column="0" />
+=======
+=======
+    <entry file="file://$PROJECT_DIR$/actions/errorAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+    <entry file="file://$PROJECT_DIR$/actions/dataActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+          <folding>
+            <element signature="e#47#85#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/Pandect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="1115" column="0" lean-forward="true" selection-start-line="1115" selection-start-column="0" selection-end-line="1115" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/NewStartTime/PandectChoose.js">
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+          <folding>
+            <element signature="e#44#89#0" expanded="false" />
+=======
+=======
+    <entry file="file://$PROJECT_DIR$/actions/errorAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+    <entry file="file://$PROJECT_DIR$/actions/dataActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/Main2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="66" column="54" lean-forward="false" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+=======
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/ErrorCount.js">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/Main2.js">
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/ErrorCountChoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="195">
+          <caret line="390" column="78" lean-forward="true" selection-start-line="390" selection-start-column="78" selection-end-line="390" selection-end-column="78" />
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="67" column="66" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="66" />
+=======
+    <entry file="file://$PROJECT_DIR$/actions/clientAction.js">
+=======
+    <entry file="file://$PROJECT_DIR$/entry.js">
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+=======
+        <state relative-caret-position="300">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+=======
+        <state relative-caret-position="210">
+          <caret line="67" column="66" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="66" />
+=======
+    <entry file="file://$PROJECT_DIR$/actions/clientAction.js">
+=======
+    <entry file="file://$PROJECT_DIR$/entry.js">
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          <folding>
+            <element signature="e#2#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/parts/NavNST.js">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="67" column="50" lean-forward="false" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Main2.js">
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="60">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="197">
+          <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+=======
+    <entry file="file://$PROJECT_DIR$/components/MyButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/components/parts/NavNST.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="60">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+>>>>>>> 50df851... 修改后台接口为http://10.235.31.241:8111/
+=======
+        <state relative-caret-position="197">
+          <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+>>>>>>> 5f456bf... 样式微调&&6-19东东第二次修改
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/components/Main3.js">
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="560" column="37" lean-forward="true" selection-start-line="560" selection-start-column="37" selection-end-line="560" selection-end-column="37" />
+          <folding>
+<<<<<<< HEAD
+            <element signature="e#93#154#0" expanded="true" />
+            <element signature="e#461#489#0" expanded="true" />
+=======
+            <element signature="e#44#89#0" expanded="false" />
+=======
+    <entry file="file://$PROJECT_DIR$/components/parts/FeedRefresh/PandectChoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="560" column="37" lean-forward="true" selection-start-line="560" selection-start-column="37" selection-end-line="560" selection-end-column="37" />
+          <folding>
+            <element signature="e#93#154#0" expanded="true" />
+            <element signature="e#461#489#0" expanded="true" />
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 1ca4f91... 地址改为梁爽的电脑
+=======
+>>>>>>> a785731... 样式微调&&6-19东东第二次修改
+>>>>>>> 7b05bff... 样式微调&&6-19东东第二次修改(撤销上次)
+  </component>
+</project>
